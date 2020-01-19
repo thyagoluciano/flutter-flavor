@@ -1,0 +1,5 @@
+#include "Generated.xcconfig"
+BUNDLE_ID_SUFFIX=.staging
+PRODUCT_BUNDLE_IDENTIFIER=br.com.thyagolucisno.sample.staging
+FLUTTER_TARGET=lib/main_staging.dart
+APP_NAME=Flavor QA

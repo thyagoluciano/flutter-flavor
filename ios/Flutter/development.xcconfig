@@ -1,0 +1,5 @@
+#include "Generated.xcconfig"
+BUNDLE_ID_SUFFIX=.development
+PRODUCT_BUNDLE_IDENTIFIER=br.com.thyagolucisno.sample.development
+FLUTTER_TARGET=lib/main_development.dart
+APP_NAME=Flavor DEV
